@@ -10,3 +10,7 @@ This script has got functions for the banner, menu options, get credentials of t
 paramikoModule.py
 This script can be used as a great paramiko template for other python programmes as well.
 It provides functions to connect to a cisco IOS device, get shell, send commands, close sessions and show the output
+
+USAGE
+In order to use this programme, just download the 3 x python scripts and store them in the same folder.
+Run the main.py script and follow the terminal instructions.
