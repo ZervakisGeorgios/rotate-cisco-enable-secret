@@ -57,7 +57,7 @@ while True:
         # creating a dictionary for each device to connect to. It could read from a file the IPs...
         # add more routers as needed
         router1 = {
-            'server_ip': '10.87.4.46', 'server_port': '22', 'user': credentials["username"], 'passwd': credentials["password"]}
+            'server_ip': '10.x.x.x', 'server_port': '22', 'user': credentials["username"], 'passwd': credentials["password"]}
         # in case we need to stores the credentials locally on the code
         # router1 = {'server_ip': '10.x.x.x', 'server_port': '22', 'user': '', 'passwd': ''}
 
